@@ -14,7 +14,7 @@ Postman [Doc: expressjs.com](https://www.getpostman.com/)<br>
 `express.js`              | Documentation [Doc: expressjs.com](http://expressjs.com/fr/api.html) | Framework express<br>
 `nodemon`              | Documentation [Doc: nodemon.io](https://nodemon.io/) | Relance automatiquement le server<br>
 `morgan`              | Documentation [Doc: morgan](https://www.npmjs.com/package/morgan) | Chaque requête http est loggé en console avec le statut de la réponse<br>
-`mongoose`              | Documentation [Doc: mongoose](https://www.npmjs.com/package/mongoose) | Base de donées mongoDB
+`mongoose`              | Documentation [Doc: mongoose](https://www.npmjs.com/package/mongoose) | Base de donées mongoDB<br>
 `body-parser`              | Documentation [Doc: body-parser](https://www.npmjs.com/package/body-parser)<br>
 `bcrypt-nodejs`              | Documentation [Doc: body-parser](https://www.npmjs.com/package/bcrypt-nodejs)<br>
 `jsonwebtoken`              | Documentation [Doc: jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
